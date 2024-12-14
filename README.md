@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**sfilips94/sfilips94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 Hi there! 👋 Welcome to my GitHub Profile
 
 About Me
@@ -46,4 +39,4 @@ Description: A fully responsive website built using HTML and CSS.
 📖 I have a bachelor’s degree in special education.
 
 Feel free to explore my repositories and connect with me! 😊
--->
+
