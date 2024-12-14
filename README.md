@@ -1,7 +1,3 @@
-Hi there! 👋 Welcome to my GitHub Profile
-
-About Me
-
 Hi, I'm Filip! I'm a front-end development student passionate about creating dynamic and user-friendly web applications.
 
 🌱 I’m currently learning HTML, CSS, and JavaScript.
@@ -12,6 +8,8 @@ Hi, I'm Filip! I'm a front-end development student passionate about creating dyn
 
 💬 Ask me about web development, tennis, or special education!
 
+
+
 🛠️ My Tech Stack
 
 Here are some technologies and tools I work with:
@@ -19,6 +17,8 @@ Here are some technologies and tools I work with:
 Languages: Figma, HTML, CSS, JavaScript
 
 Tools: Git, VS Code, Chrome Developer Tools
+
+
 
 📂 Featured Projects
 
@@ -29,6 +29,8 @@ Description: A simple portfolio showcasing my learning journey in front-end deve
 Responsive Web Design Project
 
 Description: A fully responsive website built using HTML and CSS.
+
+
 
 🌟 Fun Facts
 
